@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Magic Notes</string>
+    <string name="note_title">Note</string>
+    <string name="note_title_label">Title</string>
+    <string name="note_content_label">Content</string>
+    <string name="add_image">Add image</string>
+    <string name="save_btn">Save</string>
+    <string name="refresh_title">refresh</string>
+    <string name="error_empty_dialog_message">fields should not empty</string>
+    <string name="technical_messgae">Something went wrong</string>
+    <string name="technical_dialog_title">Oops</string>
+</resources>
